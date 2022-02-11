@@ -989,17 +989,17 @@ reply('Radhin Al haady')
 			num = await fetchJson(`https://numlookupapi.com/api/validate/${senderNumber}`, {method: 'get'})
        menu = `❏「 \`\`\`${NamaBot}\`\`\` 」
 
-╾ _Creator : @${dtod.split('@')[0]}_
-╾ _Battery : ${baterai.battery}_
-╾ _Mode : ${publik ? 'Public' : 'Self'}_
-╾ _Total Hit : ${cmhit.length}_
-╾ _Command : ${prefix + command}_
+╾ _🗿Creator : @${dtod.split('@')[0]}_
+╾ _🔋Battery : ${baterai.battery}_
+╾ _🟡Mode : ${publik ? 'Public' : 'Self'}_
+╾ _🖨️Total Hit : ${cmhit.length}_
+╾ _🖥️Command : ${prefix + command}_
 
 ❏「 \`\`\`INFO BOT\`\`\` 」
 
-╾ _Nama Bot : ${NamaBot}_
-╾ _Nama Owner : ${NamaOwner}_
-╾ _Nomor Owner : @${otod.split('@')[0]}_
+╾ _🤖Nama Bot : ${NamaBot}_
+╾ _🧕Nama Owner : ${NamaOwner}_
+╾ _📞Nomor Owner : @${otod.split('@')[0]}_
 ╾ _Auto Composing : ${autocomposing}_
 ╾ _Auto Recording : ${autorecording}_
 
@@ -1023,47 +1023,47 @@ case 'command':
                       "title": `${jmn} - ${week} ${weton} - ${calender}`,
  rows: [
                           {
-                              "title": "Script",
+                              "title": "🟡Script",
                               "rowId": ""
                            },
                            {
-                              "title": "Speed",
+                              "title": "⚡Speed",
                               "rowId": ""
                            },
                            {
-                              "title": "Status",
+                              "title": "💌Status",
                               "rowId": ""
                            },
                            {
-                              "title": "Creator",
+                              "title": "🧕Creator",
                               "rowId": ""
                            },
                            {
-                              "title": "Jadibot",
+                              "title": "🤖Jadibot",
                               "rowId": ""
                            },
                            {
-                              "title": "Runtime",
+                              "title": "🖥️Runtime",
                               "rowId": ""
                            },
                            {
-                              "title": "OwnerMenu",
+                              "title": "✨OwnerMenu",
                               "rowId": ""
                            },
                            {
-                              "title": "MakerMenu",
+                              "title": "🎀MakerMenu",
                               "rowId": ""
                            },
                            {
-                              "title": "GroupMenu",
+                              "title": "📢GroupMenu",
                               "rowId": ""
                            },
                            {
-                              "title": "OtherMenu",
+                              "title": "🛠️OtherMenu",
                               "rowId": ""
                            },
                            {
-                              "title": "DownloadMenu",
+                              "title": "🖨️DownloadMenu",
                               "rowId": ""
                            }
                         ]
