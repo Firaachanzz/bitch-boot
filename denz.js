@@ -1023,48 +1023,48 @@ case 'command':
                       "title": `${jmn} - ${week} ${weton} - ${calender}`,
  rows: [
                           {
-                              "title": "🟡Script",
+                              "title": "Script",
                               "rowId": ""
                            },
                            {
-                              "title": "⚡Speed",
+                              "title": "Speed",
                               "rowId": ""
                            },
                            {
-                              "title": "💌Status",
+                              "title": "Status",
                               "rowId": ""
                            },
                            {
-                              "title": "🧕Creator",
+                              "title": "Creator",
                               "rowId": ""
                            },
                            {
-                              "title": "🤖Jadibot",
+                              "title": "Jadibot",
                               "rowId": ""
                            },
                            {
-                              "title": "🖥️Runtime",
+                              "title": "Runtime",
                               "rowId": ""
                            },
                            {
-                              "title": "✨OwnerMenu",
+                              "title": "OwnerMenu",
                               "rowId": ""
                            },
                            {
-                              "title": "🎀MakerMenu",
+                              "title": "MakerMenu",
                               "rowId": ""
                            },
                            {
-                              "title": "📢GroupMenu",
+                              "title": "GroupMenu",
                               "rowId": ""
                            },
                            {
-                              "title": "🛠️OtherMenu",
+                              "title": "OtherMenu",
                               "rowId": ""
                            },
                            {
-                              "title": "🖨️DownloadMenu",
-                              "rowId": ""
+                              "title": "DownloadMenu",
+                              "rowId": "𝐟𝐢𝐫𝐚𝐚"
                            }
                         ]
                      }],
